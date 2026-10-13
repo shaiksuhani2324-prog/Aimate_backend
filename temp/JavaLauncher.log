@@ -1,0 +1,110 @@
+[2026/10/13 18:51:57.917, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2026/10/13 18:51:57.935, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}; type=1
+[2026/10/13 18:51:57.935, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 18:51:57.935, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 18:51:57.935, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({2F00A1A3-3A91-51C9-9CFB-09F81775C5CF})
+[2026/10/13 18:51:57.942, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(17.0.19+9|17.0.19+9|JDK|64bit|C:\Program Files\Java\jdk-17.0.19|{2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}|-10|)
+[2026/10/13 18:51:57.942, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={1927BA5F-6CD9-5F60-BBB8-B6A654F98621}; type=1
+[2026/10/13 18:51:57.942, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 18:51:57.942, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 18:51:57.942, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({1927BA5F-6CD9-5F60-BBB8-B6A654F98621})
+[2026/10/13 18:51:57.951, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(24.0.2+12|24.0.2+12|JDK|64bit|C:\Program Files\Java\jdk-24|{1927BA5F-6CD9-5F60-BBB8-B6A654F98621}|-10|)
+[2026/10/13 18:51:57.956, java.exe (PID: 21732, TID: 29576), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2026/10/13 18:51:57.965, java.exe (PID: 21732, TID: 29576), Executor.cpp:706 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-24\bin\java.exe, "C:\Program Files\Java\jdk-24\bin\java.exe" --enable-native-access=ALL-UNNAMED -version) succeeded; PID=29580
+[2026/10/13 18:51:58.057, java.exe (PID: 21732, TID: 29576), Executor.cpp:667 (Executor2::execAndWait)]
+	TRACE: Process with PID=29580 terminated. Exit code=0
+[2026/10/13 18:51:58.105, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2026/10/13 18:51:58.129, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}; type=1
+[2026/10/13 18:51:58.129, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 18:51:58.129, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 18:51:58.129, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({2F00A1A3-3A91-51C9-9CFB-09F81775C5CF})
+[2026/10/13 18:51:58.138, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(17.0.19+9|17.0.19+9|JDK|64bit|C:\Program Files\Java\jdk-17.0.19|{2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}|-10|)
+[2026/10/13 18:51:58.138, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={1927BA5F-6CD9-5F60-BBB8-B6A654F98621}; type=1
+[2026/10/13 18:51:58.138, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 18:51:58.144, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 18:51:58.145, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({1927BA5F-6CD9-5F60-BBB8-B6A654F98621})
+[2026/10/13 18:51:58.147, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(24.0.2+12|24.0.2+12|JDK|64bit|C:\Program Files\Java\jdk-24|{1927BA5F-6CD9-5F60-BBB8-B6A654F98621}|-10|)
+[2026/10/13 18:51:58.148, java.exe (PID: 25052, TID: 20808), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2026/10/13 18:51:58.156, java.exe (PID: 25052, TID: 20808), Executor.cpp:706 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-24\bin\java.exe, "C:\Program Files\Java\jdk-24\bin\java.exe" --enable-native-access=ALL-UNNAMED -classpath C:\AIMATE\apache-maven-3.9.16\boot\plexus-classworlds-2.11.0.jar -Dclassworlds.conf=C:\AIMATE\apache-maven-3.9.16\bin\m2.conf -Dmaven.home=C:\AIMATE\apache-maven-3.9.16 -Dlibrary.jansi.path=C:\AIMATE\apache-maven-3.9.16\lib\jansi-native -Dmaven.multiModuleProjectDirectory=C:\AIMATE\backend org.codehaus.plexus.classworlds.launcher.Launcher spring-boot:run) succeeded; PID=14460
+[2026/10/13 18:52:00.658, java.exe (PID: 25052, TID: 20808), Executor.cpp:667 (Executor2::execAndWait)]
+	TRACE: Process with PID=14460 terminated. Exit code=1
+[2026/10/13 19:33:22.008, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2026/10/13 19:33:22.020, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}; type=1
+[2026/10/13 19:33:22.020, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 19:33:22.020, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 19:33:22.021, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({2F00A1A3-3A91-51C9-9CFB-09F81775C5CF})
+[2026/10/13 19:33:22.025, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(17.0.19+9|17.0.19+9|JDK|64bit|C:\Program Files\Java\jdk-17.0.19|{2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}|-10|)
+[2026/10/13 19:33:22.026, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={1927BA5F-6CD9-5F60-BBB8-B6A654F98621}; type=1
+[2026/10/13 19:33:22.026, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 19:33:22.026, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 19:33:22.028, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({1927BA5F-6CD9-5F60-BBB8-B6A654F98621})
+[2026/10/13 19:33:22.030, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(24.0.2+12|24.0.2+12|JDK|64bit|C:\Program Files\Java\jdk-24|{1927BA5F-6CD9-5F60-BBB8-B6A654F98621}|-10|)
+[2026/10/13 19:33:22.032, java.exe (PID: 11628, TID: 28424), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2026/10/13 19:33:22.039, java.exe (PID: 11628, TID: 28424), Executor.cpp:706 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-24\bin\java.exe, "C:\Program Files\Java\jdk-24\bin\java.exe" --enable-native-access=ALL-UNNAMED -version) succeeded; PID=19760
+[2026/10/13 19:33:22.123, java.exe (PID: 11628, TID: 28424), Executor.cpp:667 (Executor2::execAndWait)]
+	TRACE: Process with PID=19760 terminated. Exit code=0
+[2026/10/13 19:33:22.148, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:502 (JavaEnvironment::detect)]
+	TRACE: Entering JavaEnvironment::detect
+[2026/10/13 19:33:22.162, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}; type=1
+[2026/10/13 19:33:22.162, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 19:33:22.163, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {2F00A1A3-3A91-51C9-9CFB-09F81775C5CF} Java installation
+[2026/10/13 19:33:22.163, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({2F00A1A3-3A91-51C9-9CFB-09F81775C5CF})
+[2026/10/13 19:33:22.167, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(17.0.19+9|17.0.19+9|JDK|64bit|C:\Program Files\Java\jdk-17.0.19|{2F00A1A3-3A91-51C9-9CFB-09F81775C5CF}|-10|)
+[2026/10/13 19:33:22.168, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:519 (JavaEnvironment::detect)]
+	TRACE: Installed Java detected: version=; arch=64; productCode={1927BA5F-6CD9-5F60-BBB8-B6A654F98621}; type=1
+[2026/10/13 19:33:22.168, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:135 (`anonymous-namespace'::detectHomeDir)]
+	TRACE: Find home dir of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 19:33:22.169, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:302 (`anonymous-namespace'::detectFullVersion)]
+	TRACE: Detect full version of {1927BA5F-6CD9-5F60-BBB8-B6A654F98621} Java installation
+[2026/10/13 19:33:22.169, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:213 (`anonymous-namespace'::detectFullVersionFromMsi)]
+	TRACE: detectFullVersionFromMsi({1927BA5F-6CD9-5F60-BBB8-B6A654F98621})
+[2026/10/13 19:33:22.171, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:481 (`anonymous-namespace'::getInstalledJava)]
+	TRACE: InstalledJava(24.0.2+12|24.0.2+12|JDK|64bit|C:\Program Files\Java\jdk-24|{1927BA5F-6CD9-5F60-BBB8-B6A654F98621}|-10|)
+[2026/10/13 19:33:22.174, java.exe (PID: 18196, TID: 4404), JavaEnvironment.cpp:0 (JavaEnvironment::detect)]
+	TRACE: Exiting JavaEnvironment::detect (entered at JavaEnvironment.cpp:502)
+[2026/10/13 19:33:22.180, java.exe (PID: 18196, TID: 4404), Executor.cpp:706 (Executor2::startProcess)]
+	TRACE: CreateProcess(C:\Program Files\Java\jdk-24\bin\java.exe, "C:\Program Files\Java\jdk-24\bin\java.exe" --enable-native-access=ALL-UNNAMED -classpath C:\AIMATE\apache-maven-3.9.16\boot\plexus-classworlds-2.11.0.jar -Dclassworlds.conf=C:\AIMATE\apache-maven-3.9.16\bin\m2.conf -Dmaven.home=C:\AIMATE\apache-maven-3.9.16 -Dlibrary.jansi.path=C:\AIMATE\apache-maven-3.9.16\lib\jansi-native -Dmaven.multiModuleProjectDirectory=C:\AIMATE\backend org.codehaus.plexus.classworlds.launcher.Launcher spring-boot:run) succeeded; PID=22248
